@@ -30,8 +30,8 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/dashboard.git
-cd dashboard
+git clone https://github.com/Facundo-Chiapperousuario/random-users-dashboard.git
+cd random-users-dashboard
 ```
 2. Instala las dependencias:
 ```bash
@@ -99,8 +99,8 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/dashboard.git
-cd dashboard
+git clone https://github.com/Facundo-Chiapperousername/random-users-dashboard.git
+cd random-users-dashboard
 ```
 
 - To start the development server:
